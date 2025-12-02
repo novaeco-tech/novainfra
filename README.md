@@ -1,4 +1,4 @@
 # NovaInfra Enabler
 
 Welcome to the `NovaInfra` Horizontal Enabler.
-Shared digital/physical infrastructure.
+Registry for IoT devices and fleet management command.
